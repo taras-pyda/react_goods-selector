@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,UACE,qBAAwB","file":"main.44fcb9a3.chunk.css","sourcesContent":[".selected {\n  background-color: yellow;\n}\n"]}
